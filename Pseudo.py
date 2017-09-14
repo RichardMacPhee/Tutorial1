@@ -1,5 +1,5 @@
 x = 'A'
-y = "words"
+y = "B does the best work."
 z = True
 a = 16
 b = 'B'
